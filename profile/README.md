@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="assets/world-map-hero.webp" alt="Project Airline: your airline's network on a 3D globe" width="100%" />
+<img src="assets/globe-dusk.webp" alt="Project Airline: an airline's network across Australia and New Zealand on the 3D globe" width="100%" />
 
 ---
 
@@ -34,14 +34,24 @@ The simulation is the game:
 
 <table>
   <tr>
-    <td width="33%"><img src="assets/route-planning.webp" alt="Route planning" /></td>
-    <td width="33%"><img src="assets/flight-schedule.webp" alt="Weekly flight schedule" /></td>
-    <td width="33%"><img src="assets/hub-overview.webp" alt="Hub overview" /></td>
+    <td width="33%"><img src="assets/route-economics.webp" alt="Where a flight's money goes" /></td>
+    <td width="33%"><img src="assets/weekly-schedule.webp" alt="Weekly timetable for one aircraft" /></td>
+    <td width="33%"><img src="assets/hub-diorama.webp" alt="Auckland hub diorama" /></td>
   </tr>
   <tr>
-    <td align="center"><sub>Plan routes on the globe</sub></td>
+    <td align="center"><sub>Every cost a flight carries</sub></td>
     <td align="center"><sub>Lay out your weekly timetable</sub></td>
     <td align="center"><sub>Grow your hubs</sub></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="assets/livery-studio.webp" alt="Livery studio" /></td>
+    <td width="33%"><img src="assets/ride-along.webp" alt="Riding along with a rival's flight" /></td>
+    <td width="33%"><img src="assets/world-ranking.webp" alt="World ranking of airlines" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Paint your liveries</sub></td>
+    <td align="center"><sub>Ride along with any flight</sub></td>
+    <td align="center"><sub>Climb the world ranking</sub></td>
   </tr>
 </table>
 
